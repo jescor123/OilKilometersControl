@@ -1,1 +1,1 @@
-# OilKilometersControl is web app to control the kilometers run by our cars, it is written in Java 11 with the Framework SpringBoot and MySQL as Database, the project has incorporated JUnit and Mockito for Unit testing.
+# OilKilometersControl is a web app to control the kilometers run by our cars, it is written in Java 11 with the Framework SpringBoot and MySQL as Database, the project has incorporated JUnit and Mockito for Unit testing.
